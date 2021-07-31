@@ -16,8 +16,9 @@ lo aprendí todo como autodidacta.
 
 
 ## 🛠 Skills
-
-||![HTML](https://i.imgur.com/g31Nw93.png) | ![Sass](https://i.imgur.com/QUjROj9.png)
+|Primer encabezado|
+| ---------------------------------------- | ---------------------------------------------------------------- |
+| ![HTML](https://i.imgur.com/g31Nw93.png) | ![Sass](https://i.imgur.com/QUjROj9.png)
 | ![CSS](https://i.imgur.com/tsIlXHw.png) | ![Pug](https://i.imgur.com/pHxT8tj.png)
 | ![JavaScript](https://i.imgur.com/F8zHjOA.png) | ![Git](https://i.imgur.com/rZkoE8Y.png)
 | ![Bootstrap](https://i.imgur.com/SrMhH43.png) | ![Tailwind](https://i.imgur.com/AXoDUHg.png)
