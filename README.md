@@ -4,7 +4,7 @@
 👋 ¡Hola, mundo! Soy Carlos Villatoro. La codificación ha cambiado mi
 mundo. Aprender a codificar me dio habilidades para resolver problemas y una forma de comunicarse
 con otros en un nivel técnico. También puedo desarrollar sitios web y
-usar mis habilidades de codificación para Consigue un mejor trabajo. Y
+usar mis habilidades de codificación para conseguir un mejor trabajo. Y
 lo aprendí todo como autodidacta.
 
 - 👀 Estoy interesado en aprender, poner en práctica y enseñar a todo aquel que desee
@@ -16,7 +16,16 @@ lo aprendí todo como autodidacta.
 
 
 ## 🛠 Skills
-HTML, CSS, Javascript, SAAS, Laravel, Bootstrap, Tailwind, Vue.js, Git y GitHub
+- ![HTML](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png)
+- CSS
+- Javascript
+- SAAS
+- Laravel
+- Bootstrap
+- Tailwind 
+- Git y GitHub
+- Vue.js (Aún estudiando)
+
 
   
 ##  👨‍💻 Screenshots de proyectos
