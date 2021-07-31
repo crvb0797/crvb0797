@@ -16,14 +16,13 @@ lo aprendí todo como autodidacta.
 
 
 ## 🛠 Skills
-|Primer encabezado|
-| ---------------------------------------- | ---------------------------------------------------------------- |
-| ![HTML](https://i.imgur.com/g31Nw93.png) | ![Sass](https://i.imgur.com/QUjROj9.png)
-| ![CSS](https://i.imgur.com/tsIlXHw.png) | ![Pug](https://i.imgur.com/pHxT8tj.png)
-| ![JavaScript](https://i.imgur.com/F8zHjOA.png) | ![Git](https://i.imgur.com/rZkoE8Y.png)
-| ![Bootstrap](https://i.imgur.com/SrMhH43.png) | ![Tailwind](https://i.imgur.com/AXoDUHg.png)
-| ![Laravel](https://i.imgur.com/R4wlDOn.png) | ![Vue.js](https://i.imgur.com/gMKzzoX.png) -> aún estudiando
-| ![Figma](https://i.imgur.com/FuVjWCf.png) | 
+
+- ![HTML](https://i.imgur.com/g31Nw93.png)  ![Sass](https://i.imgur.com/QUjROj9.png)
+- ![CSS](https://i.imgur.com/tsIlXHw.png)  ![Pug](https://i.imgur.com/pHxT8tj.png)
+- ![JavaScript](https://i.imgur.com/F8zHjOA.png)  ![Git](https://i.imgur.com/rZkoE8Y.png)
+- ![Bootstrap](https://i.imgur.com/SrMhH43.png)  ![Tailwind](https://i.imgur.com/AXoDUHg.png)
+- ![Laravel](https://i.imgur.com/R4wlDOn.png)  ![Vue.js](https://i.imgur.com/gMKzzoX.png) -> aún estudiando
+- ![Figma](https://i.imgur.com/FuVjWCf.png)  
 
 
 
