@@ -16,10 +16,10 @@ lo aprendí todo como autodidacta.
 
 
 ## 🛠 Skills
-- ![HTML](https://i.imgur.com/g31Nw93.png)
+- ![HTML](https://i.imgur.com/g31Nw93.png)    - ![Sass](https://i.imgur.com/QUjROj9.png)
 - ![CSS](https://i.imgur.com/tsIlXHw.png)
 - ![JavaScript](https://i.imgur.com/F8zHjOA.png)
-- SAAS
+
 - Laravel
 - Bootstrap
 - Tailwind 
