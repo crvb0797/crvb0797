@@ -13,28 +13,17 @@ lo aprendí todo como autodidacta.
 - 📫 Si deseas contactarme puedes hacerlo por medio del correo carlosvillatoro97@outlook.com
 
 
-
-
 ## 🛠 Skills
 
-## Color Reference
 
 |                   |                                                                    |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
-
-
-
-- ![HTML](https://i.imgur.com/g31Nw93.png)  ![Sass](https://i.imgur.com/QUjROj9.png)
-- ![CSS](https://i.imgur.com/tsIlXHw.png)  ![Pug](https://i.imgur.com/pHxT8tj.png)
-- ![JavaScript](https://i.imgur.com/F8zHjOA.png)  ![Git](https://i.imgur.com/rZkoE8Y.png)
-- ![Bootstrap](https://i.imgur.com/SrMhH43.png)  ![Tailwind](https://i.imgur.com/AXoDUHg.png)
-- ![Laravel](https://i.imgur.com/R4wlDOn.png)  ![Vue.js](https://i.imgur.com/gMKzzoX.png) -> aún estudiando
-- ![Figma](https://i.imgur.com/FuVjWCf.png)  
+| ![HTML](https://i.imgur.com/g31Nw93.png) | ![Sass](https://i.imgur.com/QUjROj9.png) |
+| ![CSS](https://i.imgur.com/tsIlXHw.png)  | ![Pug](https://i.imgur.com/pHxT8tj.png) |
+| ![JavaScript](https://i.imgur.com/F8zHjOA.png) | ![Bootstrap](https://i.imgur.com/SrMhH43.png)  |
+| ![Git](https://i.imgur.com/rZkoE8Y.png) | ![Tailwind](https://i.imgur.com/AXoDUHg.png) |
+| ![Laravel](https://i.imgur.com/R4wlDOn.png) | ![Vue.js](https://i.imgur.com/gMKzzoX.png) -> aún estudiando |
+| ![Figma](https://i.imgur.com/FuVjWCf.png)  | ![Vue.js](https://i.imgur.com/gMKzzoX.png) -> aún estudiando |
 
 
 
