@@ -16,9 +16,9 @@ lo aprendí todo como autodidacta.
 
 
 ## 🛠 Skills
-- ![HTML](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png)
-- CSS
-- Javascript
+- ![HTML](https://i.imgur.com/g31Nw93.png)
+- ![CSS](https://i.imgur.com/tsIlXHw.png)
+- ![JavaScript](https://i.imgur.com/F8zHjOA.png)
 - SAAS
 - Laravel
 - Bootstrap
