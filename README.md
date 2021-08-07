@@ -1,16 +1,12 @@
 
 ![Logo](https://i.imgur.com/xjYfu2a.png)
 
-👋 ¡Hola, mundo! Soy Carlos Villatoro. La codificación ha cambiado mi
-mundo. Aprender a codificar me dio habilidades para resolver problemas y una forma de comunicarse
-con otros en un nivel técnico. También puedo desarrollar sitios web y
-usar mis habilidades de codificación para conseguir un mejor trabajo. Y
-lo aprendí todo como autodidacta.
+👋 ¡Hola, mundo! Soy Carlos Villatoro. La codificación ha cambiado mi mundo. Aprender a codificar me dio habilidades para resolver problemas y una forma de comunicarme con otros en un nivel técnico. Me apasiona desarrollar sitios web y usar mis habilidades de codificación para apoyar a las PYME’s a lograr sus objetivos. Todo lo he aprendido con mucho esfuerzo y dedicación.
 
 - 👀 Estoy interesado en aprender, poner en práctica y enseñar a todo aquel que desee
 - 🌱 Actualmente estoy aprendiendo Laravel 8 y SPA a través de VUE.js
 - 💞️ Estoy buscando colaborar en cualquier proyecto que me permita mejorar mis habilidades
-- 📫 Si deseas contactarme puedes hacerlo por medio del correo carlosvillatoro97@outlook.com
+- 📫 Si deseas contactarme puedes hacerlo por medio del correo carlos@villatoro.dev
 
 
 ## 🛠 Skills
