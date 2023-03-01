@@ -16,7 +16,7 @@
 
 - 📫 como contactarme **carlos@villatoro.dev**
 
-- ⚡ Datos curiosos sobre mi **Me gusta hacer depoter, soy profesor de programacion, de computacion y de reparacion de computadoras.**
+- ⚡ Datos curiosos sobre mi **Me gusta hacer deporter, soy profesor de programacion, de computacion y de reparacion de computadoras.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
