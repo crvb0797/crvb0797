@@ -1,22 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Carlos Villatoro</h1>
-<h3 align="center">👋 Hello world! I am Carlos Villatoro. Coding has changed my world. Learning to code gave me problem-solving skills and a way to communicate with others on a technical level. I am passionate about developing websites and using my coding skills to support SMEs to achieve their goals. I have learned everything with a lot of effort and dedication.</h3>
+<h1 align="center">Hi 👋, Soy Carlos Villatoro</h1>
+<h3 align="center">👋 ¡Hola Mundo! Soy Carlos Villatoro. La codificación ha cambiado mi mundo. Aprender a codificar me dio habilidades para resolver problemas y una forma de comunicarme con otros a nivel técnico. Me apasiona desarrollar sitios web y usar mis habilidades de codificación para ayudar a las pymes a lograr sus objetivos. Todo lo he aprendido con mucho esfuerzo y dedicación.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crvb0797&label=Profile%20views&color=0e75b6&style=flat" alt="crvb0797" /> </p>
 
 <p align="left"> <a href="https://twitter.com/crvb_0797" target="blank"><img src="https://img.shields.io/twitter/follow/crvb_0797?logo=twitter&style=for-the-badge" alt="crvb_0797" /></a> </p>
 
-- 🔭 I’m currently working on [Update portfolio Carlos Villatoro](https://villatoro.dev)
+- 🔭 Actualmente estoy trabajando en [Mi medico app y Escolar App](https://villatoro.dev)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 Actualmente estoy aprendiendo **Laravel Avanzado**
 
-- 👨‍💻 All of my projects are available at [https://villatoro.dev](https://villatoro.dev)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://villatoro.dev](https://villatoro.dev)
 
-- 📝 I regularly write articles on [https://villatoro.dev/blog](https://villatoro.dev/blog)
+- 📝 Regularmente escribo artículos sobre [https://villatoro.dev/blog](https://villatoro.dev/blog)
 
-- 📫 How to reach me **carlos@villatoro.dev**
+- 📫 como contactarme **carlos@villatoro.dev**
 
-- ⚡ Curious fact **I am a professor of programming, computing and computer repair**
+- ⚡ Datos curiosos sobre mi **Me gusta hacer depoter, soy profesor de programacion, de computacion y de reparacion de computadoras.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
