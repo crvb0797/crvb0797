@@ -6,15 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/crvb_0797" target="blank"><img src="https://img.shields.io/twitter/follow/crvb_0797?logo=twitter&style=for-the-badge" alt="crvb_0797" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Mi medico app y Escolar App](https://villatoro.dev)
+- 🔭 Actualmente estoy trabajando en [Mi portafolio personal](https://villatorodev.site)
 
 - 🌱 Actualmente estoy aprendiendo **Vue.js**
 
-[- 👨‍💻 Todos mis proyectos están disponibles en [https://villatoro.dev](https://villatoro.dev)]: # 
-
-- 📝 Regularmente escribo artículos sobre [https://villatoro.dev/blog](https://villatoro.dev/blog)
-
-- 📫 como contactarme **carlos@villatoro.dev**
+- 📫 como contactarme **cvillatoro@villatorodev.site**
 
 - ⚡ Datos curiosos sobre mi **Me gusta hacer deporter, soy profesor de programacion, de computacion y de reparacion de computadoras.**
 
