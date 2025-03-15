@@ -8,9 +8,9 @@
 
 - 🔭 Actualmente estoy trabajando en [Mi medico app y Escolar App](https://villatoro.dev)
 
-- 🌱 Actualmente estoy aprendiendo **Laravel Avanzado**
+- 🌱 Actualmente estoy aprendiendo **Vue.js**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://villatoro.dev](https://villatoro.dev)
+[- 👨‍💻 Todos mis proyectos están disponibles en [https://villatoro.dev](https://villatoro.dev)]: # 
 
 - 📝 Regularmente escribo artículos sobre [https://villatoro.dev/blog](https://villatoro.dev/blog)
 
